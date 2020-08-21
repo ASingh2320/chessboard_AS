@@ -1,0 +1,6 @@
+-This is a chessboard made in python. You can move pieces as you would with a real life chessboard. The movement of the pieces is built in, 
+so if the user does not know how to play chess, they will not be able to move the pieces in an incorrect way. There is also a see possible moves option,
+so if the user does not know the possible moves of a piece, it can be shown to them. 
+-This is a text based program.
+-This program does not yet have the en passant rule which will be added in a future update.
+
